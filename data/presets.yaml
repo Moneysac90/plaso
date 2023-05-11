@@ -60,6 +60,7 @@ parsers:
 - text/xchatlog
 - text/xchatscrollback
 - text/zsh_extended_history
+- text/cisco_asa
 - utmp
 - webhist
 ---

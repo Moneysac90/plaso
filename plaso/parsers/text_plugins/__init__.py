@@ -6,6 +6,7 @@ from plaso.parsers.text_plugins import apache_access
 from plaso.parsers.text_plugins import apt_history
 from plaso.parsers.text_plugins import aws_elb_access
 from plaso.parsers.text_plugins import bash_history
+from plaso.parsers.text_plugins import cisco.asa
 from plaso.parsers.text_plugins import confluence_access
 from plaso.parsers.text_plugins import dpkg
 from plaso.parsers.text_plugins import gdrive_synclog
@@ -34,3 +35,4 @@ from plaso.parsers.text_plugins import winfirewall
 from plaso.parsers.text_plugins import xchatlog
 from plaso.parsers.text_plugins import xchatscrollback
 from plaso.parsers.text_plugins import zsh_extended_history
+from plaso.parsers.text_plugins import cisco_asa
